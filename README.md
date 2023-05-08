@@ -1,1 +1,2 @@
 # Image-Data-Analysis
+The code is a Python module for analyzing an object detection dataset. It includes functions for calculating various statistics such as class count, bounding boxes per image, bounding boxes per class, and distribution of the bounding box size. It can also convert a dataset from one format to another, such as COCO to YOLO format, Pascal VOC to COCO format, and Pascal VOC to YOLO format. The module can be useful for researchers and developers working on object detection tasks to gain insights into their dataset and prepare it for training.
